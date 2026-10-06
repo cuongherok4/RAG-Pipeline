@@ -1,0 +1,37 @@
+# Giao diện "học tập": nền sáng ngà, màu chính teal. Người dùng vẫn đổi được
+# sáng/tối trong menu ⋮ → Settings; mỗi chế độ có bảng màu riêng bên dưới.
+
+[theme]
+font = "Be Vietnam Pro:https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&display=swap"
+headingFont = "Be Vietnam Pro:https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&display=swap"
+codeFont = "JetBrains Mono:https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&display=swap"
+baseRadius = "medium"
+showSidebarBorder = true
+
+[theme.light]
+primaryColor = "#0f766e"
+backgroundColor = "#fbfaf6"
+secondaryBackgroundColor = "#eef4f1"
+textColor = "#1c2826"
+linkColor = "#0f766e"
+borderColor = "#d9e3df"
+codeTextColor = "#115e59"
+codeBackgroundColor = "#e3f1ed"
+
+[theme.light.sidebar]
+backgroundColor = "#f1f6f3"
+secondaryBackgroundColor = "#e4eeea"
+
+[theme.dark]
+primaryColor = "#2dd4bf"
+backgroundColor = "#0f1716"
+secondaryBackgroundColor = "#172321"
+textColor = "#e6efec"
+linkColor = "#5eead4"
+borderColor = "#2a3a37"
+codeTextColor = "#5eead4"
+codeBackgroundColor = "#17302c"
+
+[theme.dark.sidebar]
+backgroundColor = "#121c1a"
+secondaryBackgroundColor = "#1a2826"
