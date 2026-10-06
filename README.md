@@ -9,17 +9,10 @@
 ---
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=YPcXqbcZqaE">
-    <img src="https://img.youtube.com/vi/YPcXqbcZqaE/maxresdefault.jpg" width=800>
+  <a href="https://www.youtube.com/watch?v=0tYvaakwa2I">
+    <img src="https://img.youtube.com/vi/0tYvaakwa2I/maxresdefault.jpg" width=800>
   </a><br/>
-  <i>▶️ Indexing Pipeline — Load · Chunk · Embed · Store</i>
-</p>
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=2THKb3pnFIk">
-    <img src="https://img.youtube.com/vi/2THKb3pnFIk/maxresdefault.jpg" width=800>
-  </a><br/>
-  <i>▶️ Generation Pipeline — Retrieve · Rerank · Prompt · Generate</i>
+  <i>▶️ Video demo — xem từng bước từ PDF đến câu trả lời</i>
 </p>
 
 > **Mục tiêu:** hiểu RAG bằng cách **nhìn tận mắt** kết quả của từng bước, và thấy
